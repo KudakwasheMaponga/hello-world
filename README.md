@@ -1,5 +1,5 @@
 # hello-world
-Starting to code classes
+
 Hi there!
 
-I want to learn how to code java and many other languages later.
+I want to learn how to code in Java and many other languages like PHP, Pyhton, and many more.
